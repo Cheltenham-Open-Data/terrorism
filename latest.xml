@@ -1,0 +1,17 @@
+ <rss version="2.0" xml:base="https://www.mi5.gov.uk/" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Threat Level</title>
+ <link>https://www.mi5.gov.uk/</link>
+ <description>The Current UK Threat Level</description>
+ <language>en-gb</language>
+ <copyright>© Crown Copyright</copyright>
+ <generator>MI5</generator>
+ <webMaster>/</webMaster>
+ <lastBuildDate>Tue, 03 Nov 2020 16:15:26 +0000</lastBuildDate>
+ <ttl>20</ttl>
+ <item> <title>Current Threat Level: SEVERE</title>
+ <link>https://www.mi5.gov.uk/threat-levels</link>
+ <description>The current national threat level is SEVERE. The threat to Northern Ireland from Northern Ireland-related terrorism is SEVERE.</description>
+ <pubDate>Tuesday, November 3, 2020 - 16:15</pubDate>
+ <subject>ThreatLevel</subject>
+</item>
+</channel>
+</rss>
