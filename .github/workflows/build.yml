@@ -1,4 +1,4 @@
-name: Download
+name: Scheduled Build
 on:
   push:
     branches:
