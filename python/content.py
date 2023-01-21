@@ -13,8 +13,8 @@ for entry in entries:
     print("latest: ", string_output)
 
 if __name__ == "__main__":
-    output = ""
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    final_output = helper.replace_chunk(readme_contents,"threat_marker",f'<div class="container alert">{string_output}</div>')
+    text = f'<div class="container alert">{string_output}</div>'
+    final_output = helper.replace_chunk(readme_contents, "threat_marker", text)
     readme.open("w").write(final_output)
