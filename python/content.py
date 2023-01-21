@@ -1,8 +1,7 @@
+''' Get description from xml file to publish to markdown file '''
 
- # importing modules
-import helper
-import random
 import pathlib
+import helper
 import feedparser
 
 root = pathlib.Path(__file__).parent.parent.resolve()
