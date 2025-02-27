@@ -1,19 +1,41 @@
-''' Get description from xml file to publish to markdown file '''
-
+# importing modules
 import pathlib
-import helper
+
 import feedparser
+import helper
+from datetime import datetime
 
-root = pathlib.Path(__file__).parent.parent.resolve()
-url = root / "latest.xml"
-entries = feedparser.parse(url)["entries"]
-for entry in entries:
-    string_output = entry['description']
-    print("latest: ", string_output)
+URL = "https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml"
 
+# processing
 if __name__ == "__main__":
-    readme = root / "README.md"
-    readme_contents = readme.open().read()
-    text = f'<div class="container alert">{string_output}</div>'
-    final_output = helper.replace_chunk(readme_contents, "threat_marker", text)
-    readme.open("w").write(final_output)
+    try:
+        root = pathlib.Path(__file__).parent.parent.resolve()
+        output = feedparser.parse(URL)["entries"]
+
+        for entry in output:
+            level = (f"{entry['title']}")
+            update = entry['published']
+            update = datetime.strptime(
+                update, "%A, %B %d, %Y -  %H:%M").strftime("%Y-%m-%d")
+            days_since_update = (datetime.now() -
+                                 datetime.strptime(update, "%Y-%m-%d")).days
+            desc = entry['summary']
+
+            level_class = level.split()[-1]
+
+
+        string = f"<h1>{level_class}</h1>\n"
+        string += f'<div class="{level_class}">\n\n'
+        string += f"- {level}\n"
+        string += f"- It has been {days_since_update} days since the last change ({update})\n"
+        string += f"- Details: {desc}\n"
+        string += "</div>\n"
+        f = root / "README.md"
+        m = f.open().read()
+        c = helper.replace_chunk(m, "threat_marker", string)
+        f.open("w").write(c)
+        print("threat completed")
+
+    except FileNotFoundError:
+        print("File does not exist, unable to proceed")
