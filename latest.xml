@@ -1,105 +1,20 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <title>Just a moment...</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="robots" content="noindex,nofollow">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
-    
-
-</head>
-<body class="no-js">
-    <div class="main-wrapper" role="main">
-    <div class="main-content">
-        <h1 class="zone-name-title h1">
-            <img class="heading-favicon" src="/favicon.ico" alt="Icon for www.mi5.gov.uk"
-                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
-            www.mi5.gov.uk
-        </h1>
-        <h2 class="h2" id="challenge-running">
-            Checking if the site connection is secure
-        </h2>
-        <noscript>
-            <div id="challenge-error-title">
-                <div class="h2">
-                    <span class="icon-wrapper">
-                        <div class="heading-icon warning-icon"></div>
-                    </span>
-                    <span id="challenge-error-text">
-                        Enable JavaScript and cookies to continue
-                    </span>
-                </div>
-            </div>
-        </noscript>
-        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=79204f94786aeb37')"></div>
-        <div id="challenge-body-text" class="core-msg spacer">
-            www.mi5.gov.uk needs to review the security of your connection before proceeding.
-        </div>
-        <form id="challenge-form" action="/UKThreatLevel/UKThreatLevel.xml?__cf_chl_f_tk=8yrs0CkYQzqgqG4vzOreFPIF4mmn3BuzN0vNS1A83j0-1675145705-0-gaNycGzNBv0" method="POST" enctype="application/x-www-form-urlencoded">
-            <input type="hidden" name="md" value="nG7arfeYK88p.prkY83h31_SbSRvZQ2ZKhtIJ0ODzmo-1675145705-0-AWKlUh96V_fcJaHTM9I-YXCp_it-toZUfIw39BVRe2ijKvM7TjPRmAU-jhj2u8AwxAoLuzzYzIPsNG3u6GKy48q9O8L721vw_olPiVYLdet7fNwHY0k5joFB8IGVAbmvH8OiuUdhd9pg6Xj4lBkENsTULVvBWQ6Cc599mY62Hdikf4XJ-jYJVAvrYUlu5rbsM2byS8rgx_pUioZihndJIMouICes1KfPJj3chgMpwzz8oDBuaLeSWnNaAtmGPgsMq1ytTln2XPo29M32qF2KLG-YJl5tLo5LLt_dg3AtL1b3_Ic3rCM3q6ks_wHv1wEywxdI5GbwY3pDAEuzF6mx73OwlHjR_9KUlwU4oxm7Po1yZ8KkYfHvpZa68zTQrQ5WMDkJ44cpRWU8mxoGPo7H7z1WtJV_XIe7_GZcME-TEK-7eDc82B0Ui9492mbmMgBQI3NDdnvKtJU45i492BdBxsDo-O4H4lu7FPw44fb_1IbfY4pM3lR1Dcm2XdwVDojFfPMPxbn8f4K7FuoF6Z7uWgKa-FmXQqAvxYBF2UaVfcqwYeLdwz_JlTbJ9lN2KJuRDk_-scHViyBwp7zEDdlpseM">
-            <input type="hidden" name="r" value="HX6xSS.mYGWmRHt7WfRGiQn75bjByP5dJPuKMC_ouAo-1675145705-0-AZSarHRPXflQ38M2Q8wCQNLV2fiyBVKixTBLrpZZwnFmHr1+T2DtEbX+Gm4MgdsX9eVd1JvmY6RlNsCshncZ5gTy+DlDqq808dz/cu0/MMWrYqX7caXVLS1uO0WaY1Qp4UgMcMbnImj9Wreix6JbG19F95rOOOUUf+aYnuuBSkDnWRTxTw0+rOCmHrdHqvBalXrforHG/oL9i1XVMtIF232TvLYriOXo0GadmjGj/zcjVobhxEqLBojKniF7uQTU8zZDYvSW7QxKUHQfHYxcQG0zXj//5CnuDFGE0nmoWxCnb3kTm9yTYJnkCWbcw+AMrViKq8ONsMkdwgmdJZtNJ+uRACJo+p7DsszVyA9XO0YOypuXF7FSth9Rh90amp+lbGl/UEVrL19pDXplrzY4EHU2sYSZImIpilGm/3CEmdMrkOEHX0ZFLhIkhP9mFkEjtOw2o+wXZ6uSQsHkoCWMBHWHgU0V7qpdq0skKjewAd74R/TxPlIbc88aJH99vWd02Jr3ZTHtSPlo14s/kLLV1HKtsLt1nG/jMMBQWTQWvECfaBebqLr07nvSLEHDyMf0PzO3FvDgEZplAyLJSGk0qlRdtUan3fSVKUII1Ey54aG2CTvjdN5nSPWsaYMKwer1X8zpCE7gzlBW4lWE31uF6JC7sQXlSWp3NmFVpkHOebP1pdLRlh61ncCzOApJmlj8Vx72KssyRKkvoD3pjCZs0Au9ccDYbo5bTyeH9VALC3ov71Qel3JG80p7KAekopH8NH4/KixKHhHXV68GJvCdFgoBFJ7G7wsjjRoKuWes35twDyBr5VdEHg4Hef5+YUnyOvPhlaATg03iLa99KL136mjlROyofpuCaPBOsQwudq6HHm3ZHoMsAiJUiEQ3UCM27+D0+4KnNEND+nwXFzoi71RsllqP/vqFYge5ov7/h7NviHXwpwEJ0Pjhl6K9lAxdV/1d0tdc3dSfsYclklWAGw8K1epCGfYVxQwFdTtAW8DjtgGFKqJ2jwFrj/4dJsf06FV/jPc2+/LH9rfp+ujGHcbeLPOyCO7lsvXI44zkDoMRl/9sULkHtab2OGSdnUj6LU7DfUCC5grcT4N2rWxbNUJPlkh9R83H3z3mAOyNzwmLJzs7N1CrO1iohxnPsEvykvL9yOhg/IwmyNuH+Uhxmxt4mj8yIQ/xnpQJxJfBNfgfit64V7WepqMv69hABfmY6TRdK5zJN/e1WD7SMwJa82zO7OSc+m0bWnDSNS3nBGQz3L6YXoVMUB7TiegWdsbkWqUrWa+WPVHpm5k1nbX8lLbnRJ0lU5caVT6h9DTgtRMEW23DjVP9UVUI1AczbXt8qgS/WYKI+UJ5cpvi9DdClO76CHFsPwCvlcA/RsjwJb2K+DGxYKtkInJyOHY/EED8vZU6nbD1VDSkEXXTH0pmperEP4Hno2jnIakJ5ly4XT5VTHeqj3kq1Vs0cHGZRKs1iu2gkt92wZ1GOJ9kHcqozVQ5NW6YYZVJOY/piflcljSh3bfKzc1ZxHjwka2/nLZwicnIeIxW3F2nt4Ik7153v4Yfb87RDt/vo7FnnM/QoDwrY9jisLpTJt4C83EUZ+anyTRDY0CgR+Rlnr5CKLEJ4OFqkI/SqXymgPOs5AeUT2/Frct1SZqINEw0PZmGr0MqsQqeoYa9dKFc0BkjPyyADcyhE3bCPlfnq36+YTQZ9HxIT+938w5ZfPUQzpjLpXDDbQ==">
-        </form>
-    </div>
-</div>
-<script>
-    (function(){
-        window._cf_chl_opt={
-            cvId: '2',
-            cZone: 'www.mi5.gov.uk',
-            cType: 'managed',
-            cNounce: '1478',
-            cRay: '79204f94786aeb37',
-            cHash: 'd3a1b170f490add',
-            cUPMDTk: "\/UKThreatLevel\/UKThreatLevel.xml?__cf_chl_tk=8yrs0CkYQzqgqG4vzOreFPIF4mmn3BuzN0vNS1A83j0-1675145705-0-gaNycGzNBv0",
-            cFPWv: 'g',
-            cTTimeMs: '1000',
-            cMTimeMs: '0',
-            cTplV: 4,
-            cTplB: 'cf',
-            cRq: {
-                ru: 'aHR0cHM6Ly93d3cubWk1Lmdvdi51ay9VS1RocmVhdExldmVsL1VLVGhyZWF0TGV2ZWwueG1s',
-                ra: 'Y3VybC83LjgxLjA=',
-                rm: 'R0VU',
-                d: '8cnCkBfoSOnhFxyr8JxK8UBwLz5reLjdSqV6ygnJNoeikiO3Gmu1062aBGiLraBXXwl7DZVFpqJYo/dcg1kRvC5HdflBLmyatEOzysNonpaTfKY9ZOJfdWyyuFvlYLhKbXYV0zBha5aS8hFUi3QlDhavDLRhHqDN7skFhhmRU9fVGe8f5p6gHD2k14jpSsPYG4yZ5eyyjFd7/z9XF+B3ODIElwWwJCdPt1D0Hb8Sr/XsehIDohLYhCljzj6V+679ATF5mobjDmgtFWgjSsIxU1qrTruHcRlq4Q3qvhXj/ngIATO3BJhiWAMuXXBJDdzA3iUnzJTOOo2AleT+dM2EWkYmy7AtvRwSuBv0LiS4QkLrXObfxtUZIdtJs3b2SpYW5mDy2a0s88V469nUMMYozuyY9zfXXfAd2Iuen5MLIP+sowE54c3moz51mGz+C6WjBNl4a0V1whG7eAsLCDL4oyq+e2Ns2TMYG1rk7GbvHkcRdxQvmchAOfiAmbMRgjmXvSZAtuylO0/lJ/5OpepsqaH+q9qHrnvWhHYMhDAvJaVmJjMnrEikpRelrEDvVAiZ7roPbXgG+peWa1oEh6gH7Trt1PxyMZDzPn/X72eu10jjK8fmAp36Yxk00PnUsZPFFEUGbiTqCZnha97bzuWbHm8allTcBqoFq6w5AZHBFmzDTwNnyZQ/AxiW43ygFld0aNUtrEXTMKjYKexX8cTJQw==',
-                t: 'MTY3NTE0NTcwNS42NzgwMDA=',
-                m: 'ux21Z2k52s7cIw02Q/+ZZ+LAsv7bKSADTiirVTXyNqI=',
-                i1: '+mz5Z+nS1woNXe5l4nlMjA==',
-                i2: 'Xjs2jdFkIrEiyLWJPc7jDg==',
-                zh: 'X9YmZ2RdrzdXGO02U5fhw7FtLwuXdZZzReEPuDRHrRk=',
-                uh: 'XtPohTwN9ruoNwJrCbocmA5soW1XPnkxU/yVFmBLOQo=',
-                hh: 'cFaBqdzw9e8FMcsWKAeyTRBz3FYkco9rhz0Bs8CfYcs=',
-            }
-        };
-        var trkjs = document.createElement('img');
-        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=79204f94786aeb37');
-        trkjs.setAttribute('alt', '');
-        trkjs.setAttribute('style', 'display: none');
-        document.body.appendChild(trkjs);
-        var cpo = document.createElement('script');
-        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=79204f94786aeb37';
-        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
-        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
-        if (window.history && window.history.replaceState) {
-            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
-            history.replaceState(null, null, "\/UKThreatLevel\/UKThreatLevel.xml?__cf_chl_rt_tk=8yrs0CkYQzqgqG4vzOreFPIF4mmn3BuzN0vNS1A83j0-1675145705-0-gaNycGzNBv0" + window._cf_chl_opt.cOgUHash);
-            cpo.onload = function() {
-                history.replaceState(null, null, ogU);
-            };
-        }
-        document.getElementsByTagName('head')[0].appendChild(cpo);
-    }());
-</script>
-
-
-    <div class="footer" role="contentinfo">
-        <div class="footer-inner">
-            <div class="clearfix diagnostic-wrapper">
-                <div class="ray-id">Ray ID: <code>79204f94786aeb37</code></div>
-            </div>
-            <div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
-        </div>
-    </div>
-</body>
-</html>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xml:base="https://www.mi5.gov.uk/">
+<channel>
+<title>Threat Level</title>
+<link>https://www.mi5.gov.uk/</link>
+<description>The Current UK Threat Level</description>
+<language>en-gb</language>
+<copyright>© Crown Copyright</copyright>
+<generator>MI5</generator>
+<webMaster>/</webMaster>
+<lastBuildDate>Tue, 05 Mar 2024 02:52:25 +0000</lastBuildDate>
+<ttl>20</ttl>
+<item>
+<title>Current threat level: SUBSTANTIAL</title>
+<link>https://www.mi5.gov.uk/threats-and-advice/threat-levels</link>
+<description>The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</description>
+<pubDate>Tuesday, March 05, 2024 -  02:52</pubDate>
+<subject>ThreatLevel</subject>
+</item>
+</channel>
+</rss>
