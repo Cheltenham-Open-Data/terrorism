@@ -4,7 +4,7 @@
 <div class="SUBSTANTIAL">
 
 - Current threat level: SUBSTANTIAL
-- It has been 376 days since the last change (2024-03-05)
+- It has been 377 days since the last change (2024-03-05)
 - Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 </div>
 
